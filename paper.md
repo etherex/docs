@@ -8,7 +8,7 @@ The world of finance has been thoroughly disrupted by the technology of the dece
 
 The dustbin of crypto-history is filled with defunct exchanges that succumbed to poor security, mismanagement, or outright theft on the part of their owners. The victims of broken centralized exchanges have lost untold millions as a result. Broader adoption of the crypto ecosystem has been hampered as well; potential users, well-aware of the losses suffered by those victims, have chosen to stay firmly in the familiar world of fiat.
 
-This White Paper lays the foundation for a better approach: a way forward that will bring an abrupt end to the phenomenon of getting “Goxxed”.
+This White Paper lays the foundation for a better approach: a way forward that will help bring an end to the phenomenon of getting “Goxxed”.
 
 EtherEx is a truly decentralized crypto exchange. Leveraging the power of Ethereum, it will empower users to exchange in a secure and trustless fashion, as well as trade in ways not possible with first-generation blockchain technologies.
 
@@ -379,7 +379,7 @@ The same transaction API used by the interface will be available for anyone to c
 Conclusion
 ==========
 
-Blockchain technology elegantly solves many fundamental problems by empowering both the exchange and its users to easily access the same data. Traders can feel free to enter a market where the open-source nature of contracts provides the inherent peace of mind that can only be provided by the elimination of both counter-party risk and corrupt-exchange risk. The era of being Goxxed is truly behind us.
+Blockchain technology elegantly solves many fundamental problems by empowering both the exchange and its users to easily access the same data. Traders can feel free to enter a market where the open-source nature of contracts provides the inherent peace of mind that can only be provided by the elimination of both counter-party risk and corrupt-exchange risk.
 
 As described above, the development of a decentralized exchange introduces a variety of challenges. Meeting these challenges will require a careful allocation of resources as EtherEx strives to create a favorable user experience through a truly decentralized service. The EtherEx team is confident in its ability to solve these problems well before the launch of the Ethereum protocol.
 
